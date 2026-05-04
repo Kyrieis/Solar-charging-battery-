@@ -1,4 +1,6 @@
+
+
 How I built my project I first opened the box and separated the pieces I then used this video to assemble it https://www.youtube.com/watch?v=3PJDxvAEGZk&pp=ygUpc29sYXIgdHJhY2tpbmcgY2hhcmdpbmcgYmF0dGVyeSBrZXlzdHVkaW_SBwkJ3goBhyohjO8%3D
  I followed the video and assembled it then i used this website for the correct placement of the pins https://docs.keyestudio.com/projects/KS0530/en/latest/KS0530.html 
-I then plugged it in to my computer and downloaded all the lesson and then it began to worked 
-But I wanted my project to be able to track the time based on where the sun was so then I coded it to be able to determine the time based on where the sun is 
+I then plugged it in to my computer and downloaded arduino for my computer and while that was downloading I opened the files that are already on the arduino file and copy them and then when the arudino app was ready I connected and pasted the code into the app and downloaded the code to the arduino and I did that for each lesson then I ran the code and then began to work.
+But I wanted my project to be able to track the time based on where the sun was so then I coded it to be able to determine the time based on where the sun is so Tracking time based on the sun’s position in your code was done by calculating the Local Solar Time using astronomical algorithms, rather than relying on a standard clock. The core concept is that the Sun reaches its highest point (solar noon) when it crosses the observer's local meridian, moving across the sky at approximately \(15^{\circ }\) per hour (\(360^{\circ }\) rotation in 24 hours). 
